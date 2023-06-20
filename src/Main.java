@@ -20,7 +20,6 @@ public class Main {
         System.out.println(cat);
         System.out.println(paper);
     }
-
     public static void task2() {
         System.out.println("Задача 2");
         var dog = 8.0;
@@ -76,7 +75,6 @@ public class Main {
 
 
     }
-
     public static void task7() {
         System.out.println("Задача 7");
         var boxer1 = 78.2;
@@ -84,7 +82,6 @@ public class Main {
         System.out.println(boxer2 - boxer1);
         System.out.println(boxer2 % boxer1);
     }
-
     public static void task8() {
         System.out.println("Задача 8");
         var sumH = 640;
@@ -93,7 +90,5 @@ public class Main {
         System.out.println("Всего работников в компании — " + employee + " человек");
         System.out.println("Если в компании работает " + employee + 94 + " человек, то всего " + (employee + 94) * 8
         + " часов работы может быть поделено между сотрудниками");
-
     }
-
 }
